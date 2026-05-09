@@ -1,0 +1,11 @@
+Pulse/Flux
+
+DontTouchTheRed
+
+
+
+
+/////Command To Run: \\\\\\\\
+
+
+PS D:\Cpp Codes\OOP\project\Refractored> g++ *.cpp -o game -lsfml-graphics -lsfml-window -lsfml-system
